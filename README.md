@@ -1,20 +1,21 @@
-# 💼 Sanket Chaudhari - My First Project
+# 💻 Sanket Chaudhari | Portfolio Website
 
-Welcome to my first GitHub project! 🚀  
-This is a simple static portfolio website made using **HTML + CSS**.
+Welcome to my classy and minimal dev portfolio. Built using clean HTML + CSS.
 
-## 🌟 What's Inside?
-- Clean and responsive portfolio
-- Sections: About Me, Projects, Contact
-- Starter template for future web dev projects
+## 🔥 Features
+- Hero section with intro
+- About, Projects, Contact sections
+- Smooth layout, clean typography
+- Fully responsive & ready to host on GitHub Pages
 
-## 🚀 Live Demo (Optional)
-[Add your GitHub Pages link here after deployment]
+## 🚀 Future Plans
+- Add blog section
+- Convert to React + Tailwind
+- Connect backend with .NET Core API
 
-## 🛠 Technologies Used
-- HTML
-- CSS
-
-## 📬 Contact
+## 👋 Get in Touch
+- Email: sanketchaudhari22@gmail.com  
 - GitHub: [sanketchaudhari22](https://github.com/sanketchaudhari22)
-- Email: sanketchaudhari22@gmail.com
+
+---
+> “Code like an artist. Ship like a pro.” 🎯
