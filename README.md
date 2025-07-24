@@ -14,7 +14,7 @@ Welcome to my classy and minimal dev portfolio. Built using clean HTML + CSS.
 - Connect backend with .NET Core API
 
 ## 👋 Get in Touch
-- Email: sanketchaudhari22@gmail.com  
+- Email: sanketchaudhari@gmail.com  
 - GitHub: [sanketchaudhari22](https://github.com/sanketchaudhari22)
 
 ---
